@@ -64,7 +64,7 @@
     "geometry":{"type":"Point","coordinates":[4478,1945]}},
    {"type":"Feature","properties":
     {"id":8,
-    "chapter":"Chapter 8: Citations",
+    "chapter":"Chapter 8: References",
     "zoom":5,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
@@ -73,7 +73,7 @@
     "geometry":{"type":"Point","coordinates":[3945,2920]}},
    {"type":"Feature","properties":
     {"id":9,
-    "chapter":"Chapter 9: Flowers",
+    "chapter":"Chapter 9: Citations",
     "zoom":5,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
