@@ -10,7 +10,7 @@
     "geometry":{"type":"Point","coordinates":[1,1]}},
   {"type":"Feature","properties":
     {"id":2,
-    "chapter":"Chapter 2: The Sultan",
+    "chapter":"Chapter 2: Ibrahim Sultan",
     "zoom":4,
     "image":"",
     "source-credit":"",
@@ -19,7 +19,7 @@
     "geometry":{"type":"Point","coordinates":[1960,1577]}},
   {"type":"Feature","properties":
     {"id":3,
-    "chapter":"Chapter 3: The Sultan's Men",
+    "chapter":"Chapter 3: Ibrahim Sultan's Men",
     "zoom":3,
     "image":"",
     "source-credit":"",
